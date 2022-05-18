@@ -20,6 +20,6 @@
 ## 문제집
 |주차|이름|난이도|문제 제목|
 |:---:|---|:----:|----|
-|1|Heather|S2|[마인크래프트](https://www.acmicpc.net/problem/18111)|
-|1|mjkim|S3|[후위 표기식](https://www.acmicpc.net/problem/1935)|
+|1|HanInJu|S2|[마인크래프트](https://www.acmicpc.net/problem/18111)|
+|1|MinjiKim|S3|[후위 표기식](https://www.acmicpc.net/problem/1935)|
 |1|YoungEunKim|S2|[1,2,3 더하기 5](https://www.acmicpc.net/problem/15990)|
