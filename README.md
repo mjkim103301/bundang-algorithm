@@ -22,4 +22,4 @@
 |:---:|---|:----:|----|
 |1|Heather|||
 |1|mjkim|S3|[후위 표기식](https://www.acmicpc.net/problem/1935)|
-|1|YoungEunKim|S2|[1,2,3 더하기 5]|(https://www.acmicpc.net/problem/15990)|
+|1|YoungEunKim|S2|[1,2,3 더하기 5](https://www.acmicpc.net/problem/15990)|
