@@ -23,7 +23,7 @@
 |1|HanInJu|S2|[마인크래프트](https://www.acmicpc.net/problem/18111)|
 |1|MinjiKim|S3|[후위 표기식](https://www.acmicpc.net/problem/1935)|
 |1|YoungEunKim|S2|[1,2,3 더하기 5](https://www.acmicpc.net/problem/15990)|
-|2|HanInJu||[]()|
+|2|HanInJu|G5|[N-Queen](https://www.acmicpc.net/problem/9663)|
 |2|MinjiKim|Lv3|[여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164)|
 |2|YoungEunKim||[]()|
 |3|HanInJu||[]()|
