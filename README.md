@@ -25,7 +25,7 @@
 |1|YoungEunKim|S2|[1,2,3 더하기 5](https://www.acmicpc.net/problem/15990)|
 |2|HanInJu||[]()|
 |2|MinjiKim|Lv3|[여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164)|
-|2|YoungEunKim||[그래픽스 ](https://www.acmicpc.net/problem/2876)|
+|2|YoungEunKim|S2|[그래픽스 ](https://www.acmicpc.net/problem/2876)|
 |3|HanInJu||[]()|
 |3|MinjiKim||[]()|
 |3|YoungEunKim||[]()|
