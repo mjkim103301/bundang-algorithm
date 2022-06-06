@@ -26,7 +26,7 @@
 |2|HanInJu||[]()|
 |2|MinjiKim|Lv3|[여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164)|
 |2|YoungEunKim|S2|[그래픽스 ](https://www.acmicpc.net/problem/2876)|
-|3|HanInJu||[]()|
+|3|HanInJu|S2|[기타콘서트](https://www.acmicpc.net/problem/1497)|
 |3|MinjiKim|G5|[괄호제거](https://www.acmicpc.net/problem/2800)|
 |3|YoungEunKim||[]()|
 |4|HanInJu||[]()|
