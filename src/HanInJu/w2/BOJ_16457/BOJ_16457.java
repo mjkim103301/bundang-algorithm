@@ -1,3 +1,5 @@
+package HanInJu.w2.BOJ_16457;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
