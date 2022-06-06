@@ -25,6 +25,20 @@ public class BOJ_16457 {
 		recur(cur+1, cnt, skillSet);
 	}
 
+	public static void recur1(int cur, int cnt) {
+		if(cnt == N) { // N개가 되면 달성한 퀘스트의 수 비교 후 max 갱신
+			max = Math.max(max, countPossibleQuests());
+			return;
+		}
+		if(cur > 2*N) { // 2N개까지 갔으면 리턴
+			return;
+		}
+
+		keys[cnt] = cur;
+		recur1(cur+1, cnt+1);
+		recur1(cur+1, cnt);
+	}
+
 	public static void recur2(int cur, int start) {
 		if(cur == N) {
 			max = Math.max(max, countPossibleQuests());
@@ -97,7 +111,8 @@ public class BOJ_16457 {
 		}
 
 		// recur2(0,1);
-		recur(1,0,"");
+		// recur(1,0,"");
+		recur1(1,0);
 		System.out.println(max);
 	}
 }
