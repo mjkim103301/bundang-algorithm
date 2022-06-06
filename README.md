@@ -23,11 +23,11 @@
 |1|HanInJu|S2|[마인크래프트](https://www.acmicpc.net/problem/18111)|
 |1|MinjiKim|S3|[후위 표기식](https://www.acmicpc.net/problem/1935)|
 |1|YoungEunKim|S2|[1,2,3 더하기 5](https://www.acmicpc.net/problem/15990)|
-|2|HanInJu|G5|[N-Queen](https://www.acmicpc.net/problem/9663)|
+|2|HanInJu|S1|[단풍잎이야기](https://www.acmicpc.net/problem/16457)|
 |2|MinjiKim|Lv3|[여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164)|
-|2|YoungEunKim||[]()|
-|3|HanInJu||[]()|
-|3|MinjiKim||[]()|
+|2|YoungEunKim|S2|[그래픽스 ](https://www.acmicpc.net/problem/2876)|
+|3|HanInJu|S2|[기타콘서트](https://www.acmicpc.net/problem/1497)|
+|3|MinjiKim|G5|[괄호제거](https://www.acmicpc.net/problem/2800)|
 |3|YoungEunKim||[]()|
 |4|HanInJu||[]()|
 |4|MinjiKim||[]()|
