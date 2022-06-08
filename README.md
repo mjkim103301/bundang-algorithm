@@ -28,7 +28,7 @@
 |2|YoungEunKim|S2|[그래픽스 ](https://www.acmicpc.net/problem/2876)|
 |3|HanInJu|S2|[기타콘서트](https://www.acmicpc.net/problem/1497)|
 |3|MinjiKim|G5|[괄호제거](https://www.acmicpc.net/problem/2800)|
-|3|YoungEunKim||[]()|
+|3|YoungEunKim|S2|[안녕](https://www.acmicpc.net/problem/1535)|
 |4|HanInJu|G5|[치킨배달](https://www.acmicpc.net/problem/15686)|
 |4|MinjiKim||[]()|
 |4|YoungEunKim||[]()|
