@@ -30,7 +30,7 @@
 |3|MinjiKim|G5|[괄호제거](https://www.acmicpc.net/problem/2800)|
 |3|YoungEunKim|S2|[안녕](https://www.acmicpc.net/problem/1535)|
 |4|HanInJu|G5|[치킨배달](https://www.acmicpc.net/problem/15686)|
-|4|MinjiKim||[]()|
+|4|MinjiKim|Lv2|[오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)|
 |4|YoungEunKim||[]()|
 |5|HanInJu||[]()|
 |5|MinjiKim||[]()|
