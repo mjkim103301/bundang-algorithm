@@ -1,4 +1,4 @@
-package HanInJu.BOJ_15990;
+package HanInJu.w1.BOJ_15990;
 
 import java.io.BufferedReader;
 import java.io.IOException;
