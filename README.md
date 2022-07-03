@@ -33,7 +33,7 @@
 |4|MinjiKim|Lv2|[오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)|
 |4|YoungEunKim||[]()|
 |5|MinjiKim|S1|[포도주 시식](https://www.acmicpc.net/problem/2156)|
-|5|YoungEunKim||[]()|
+|5|YoungEunKim||[주지수](https://www.acmicpc.net/problem/15724)|
 
 
 ## 회의
