@@ -33,8 +33,17 @@
 |4|MinjiKim|Lv2|[오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)|
 |4|YoungEunKim||[]()|
 |5|MinjiKim|S1|[포도주 시식](https://www.acmicpc.net/problem/2156)|
-|5|YoungEunKim||[]()|
-
+|5|YoungEunKim|S1|[주지수](https://www.acmicpc.net/problem/15724)|
+|6|MinjiKim|Lv2|[메뉴리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)|
+|6|YoungEunKim||[]()|
+|7|MinjiKim||[]()|
+|7|YoungEunKim||[]()|
+|8|MinjiKim||[]()|
+|8|YoungEunKim||[]()|
+|9|MinjiKim||[]()|
+|9|YoungEunKim||[]()|
+|10|MinjiKim||[]()|
+|10|YoungEunKim||[]()|
 
 ## 회의
 * 2022-06-08 
