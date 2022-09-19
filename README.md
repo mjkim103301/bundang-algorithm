@@ -35,7 +35,7 @@
 |5|MinjiKim|S1|[포도주 시식](https://www.acmicpc.net/problem/2156)|
 |5|YoungEunKim|S1|[주지수](https://www.acmicpc.net/problem/15724)|
 |6|MinjiKim|Lv2|[메뉴리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)|
-|6|YoungEunKim||[]()|
+|6|YoungEunKim|G5|[트리와 쿼리](https://www.acmicpc.net/problem/15681)|
 |7|MinjiKim||[]()|
 |7|YoungEunKim||[]()|
 |8|MinjiKim||[]()|
